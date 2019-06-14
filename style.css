@@ -10,8 +10,22 @@ p{
 
 span{
 	background: yellow;
+	  display: inline-Block;
+		height: 40px
 }
+p span{
+	display:inline;
+	background: transparent;
 
+}
 a{
 	background:  pink;
+}
+strong{
+	color: red;
+}
+
+img{
+	position:relative;
+	transform: rotate(70deg);
 }
